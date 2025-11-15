@@ -61,8 +61,7 @@
 - **Excel (Advanced)**
 - **Matplotlib**
 - **Seaborn**
-- **Pandas
-- **Numpy
+
 ---
 
 ## 📈 GitHub Stats
