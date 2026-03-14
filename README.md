@@ -14,54 +14,14 @@
 ### 🌱 What I'm learning
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - SQL (MySQL, PostgreSQL)  
-- **Data Structures & Algorithms (DSA)**  
+- **power BI(DAX, Dashboard)**  
 
 ### 🤝 Collaboration interests
 - Data Analytics Projects (SQL, Python, Power BI)
 - Dashboard building & data cleaning
 
 ### 🆘 I’m looking for help with
-- Advanced analytics & ML basics
-
-### 💬 Ask me about
-- SQL Queries  
-- EDA  
-- Power BI Dashboards  
-- Cleaning messy datasets  
-
-### 📫 How to reach me
-**📧 radeeshr253@gmail.com**
-
----
-
-## 🌐 Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/radeeshr253/" target="_blank">
-<img align="cente
-<h1 align="center">Hi 👋, I'm Radeesh</h1> 
-<h3 align="center">A passionate Data Analyst from India</h3> 
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=radeesh&label=Profile%20views&color=0e75b6&style=flat" alt="radeesh" /> 
-</p>
-
----
-
-### 🔭 What I'm currently working on
-- **Sales Data Analysis** using Python & Power BI  
-- **Bank Transaction Insights** project  
-
-### 🌱 What I'm learning
-- Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- SQL (MySQL, PostgreSQL)  
-- **Data Structures & Algorithms (DSA)**  
-
-### 🤝 Collaboration interests
-- Data Analytics Projects (SQL, Python, Power BI)
-- Dashboard building & data cleaning
-
-### 🆘 I’m looking for help with
-- Advanced analytics & ML basics
+- Advanced analytics
 
 ### 💬 Ask me about
 - SQL Queries  
